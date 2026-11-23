@@ -43,8 +43,7 @@ Will spend two hours ricing my terminal before writing line one of the project i
 | [**Roastdoku**](https://github.com/AdhyanGupta948/Roastdoku) | Sudoku with a twist: a built-in roast bot that comments on your gameplay | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
 | [**prajna**](https://github.com/AdhyanGupta948/prajna) | Native Android app that puts multiple AI services in one polished interface | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) |
 | [**beam-tui**](https://github.com/AdhyanGupta948/beam-tui) | Fast, modern dual-pane terminal file manager for Android & macOS over ADB | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**adhyan-exe**](https://github.com/AdhyanGupta948/adhyan-exe) | My personal site, handmade, | 
-![HTML](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**adhyan-exe**](https://github.com/AdhyanGupta948/adhyan-exe) | My personal site, handmade, | ![HTML](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 ### ✦ tools i use
 
