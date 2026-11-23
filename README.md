@@ -56,7 +56,6 @@ Will spend two hours ricing my terminal before writing line one of the project i
 ### ✳ interests.txt
 
 - 🖥️ **Tech:** macOS internals, Linux ricing, terminals, Homebrew, Android customization, local LLMs
-- 🎛️ **Music:** singing, beats in GarageBand, autotune experiments, lossless + spatial audio
 - 🎮 **Gaming:** Minecraft, COD Mobile, Hitman, tuning game performance
 - 🎨 **Creative:** graphic design, photography, editing, obsessing over one pixel of UI until it feels right
 - 🧠 **Brain stuff:** philosophy, psychology, science, geography, and overthinking all of it
