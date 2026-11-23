@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=E9A23B&center=true&vCenter=true&width=600&height=50&lines=Hey%2C+I'm+Adhyan.;Curious+mind.+Creative+chaos.;Probably+building+something." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=E9A23B&center=true&vCenter=true&width=650&height=50&lines=Hey%2C+I'm+Adhyan.;Curious+mind.+Creative+chaos.;Probably+building+something.;That's+a+stupid+idea.+Let+me+build+it." alt="Typing SVG" />
 
 <br>
 
-**Android dev · student · full-stack tinkerer**
+**Android dev · creative technologist · student**
 <br>
-I publish apps (yes, F-Droid too) and make things that feel different.
+I like knowing *how* things work, not just *that* they work.
 <br>
 Less copy-paste, more personality.
 
@@ -22,14 +22,21 @@ Less copy-paste, more personality.
 
 ```text
 name        : Adhyan Gupta
-role        : Android dev / student / internet person
-machine     : MacBook Air M4
+role        : Android dev / aspiring engineer / musician-ish
+machine     : MacBook Air M4 (256 GB, somehow still installing things)
 editor      : IntelliJ IDEA Ultimate
+values      : local-first, open-source, privacy, minimalism, free
 currently   : making cool stuff on the internet
 brain       : too many tabs open
 ```
 
-### ✦ stuff i've built
+### ✦ how i work
+
+I design the architecture, plan the features, hunt edge cases, then get coding agents to do the heavy typing.
+I want exact commands, reproducible results and actual evidence. Vague answers get a follow-up question.
+Will spend two hours ricing my terminal before writing line one of the project it's for.
+
+### ✳ stuff i've built
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -38,28 +45,32 @@ brain       : too many tabs open
 | [**beam-tui**](https://github.com/AdhyanGupta948/beam-tui) | Fast, modern dual-pane terminal file manager for Android & macOS over ADB | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | [**adhyan-exe**](https://github.com/AdhyanGupta948/adhyan-exe) | My personal site, handmade, with a tiny generative lo-fi jukebox | ![HTML](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
-### ✳ tools i use
+### ✦ tools i use
 
 <div align="center">
 
-![Kotlin](https://skillicons.dev/icons?i=kotlin,androidstudio,idea,py,ts,js,html,css,git,github,apple,linux&perline=12)
+![Stack](https://skillicons.dev/icons?i=kotlin,swift,ts,py,androidstudio,idea,html,css,git,github,apple,linux&perline=12)
 
 </div>
 
-### ✦ side quests
+### ✳ interests.txt
 
-- 🧪 Ethical hacking: local Kali lab on my M4 (TryHackMe → HackTheBox → eJPT/PNPT is the plan)
-- 🐧 Linux ricing, terminal UIs, and making browsers feel like terminals
-- 📷 Photography, 🎮 gaming, 🎧 music, 📖 currently on Kafka
+- 🖥️ **Tech:** macOS internals, Linux ricing, terminals, Homebrew, Android customization, local LLMs
+- 🎛️ **Music:** singing, beats in GarageBand, autotune experiments, lossless + spatial audio
+- 🎮 **Gaming:** Minecraft, COD Mobile, Hitman, tuning game performance
+- 🎨 **Creative:** graphic design, photography, editing, obsessing over one pixel of UI until it feels right
+- 🧠 **Brain stuff:** philosophy, psychology, science, geography, and overthinking all of it
+- 🔐 **Ethical hacking:** local Kali lab on my M4, slowly climbing the roadmap
 
-### 📈 stats
+### ✦ known issues
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AdhyanGupta948&show_icons=true&theme=transparent&title_color=E9A23B&icon_color=E9A23B&text_color=9e9e9e&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhyanGupta948&layout=compact&theme=transparent&title_color=E9A23B&text_color=9e9e9e&hide_border=true" />
-
-</div>
+```text
+[WONTFIX]  starts 5 projects while optimizing the environment for the 6th
+[WONTFIX]  knows the exact version number of everything installed
+[WONTFIX]  loves Apple hardware, still roasts Apple's decisions
+[OPEN]     storage: 256 GB, ambitions: unlimited
+[OPEN]     currently running ~47 projects in parallel 😭
+```
 
 ### ✳ status
 
@@ -70,6 +81,15 @@ OBJECTIVE: FIX ONE BUG, CREATE THREE
 OBJECTIVE: IT WORKS ON MY MACHINE
 OBJECTIVE: ONE MORE FEATURE, THEN BED
 ```
+
+### 📈 stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AdhyanGupta948&show_icons=true&theme=transparent&title_color=E9A23B&icon_color=E9A23B&text_color=9e9e9e&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhyanGupta948&layout=compact&theme=transparent&title_color=E9A23B&text_color=9e9e9e&hide_border=true" />
+
+</div>
 
 <!--
 Uncomment and fill in when you want socials/contact:
