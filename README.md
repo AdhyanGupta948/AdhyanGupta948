@@ -24,7 +24,7 @@ Less copy-paste, more personality.
 name        : Adhyan Gupta
 role        : Android dev / aspiring engineer / musician-ish
 machine     : MacBook Air M4 (256 GB, somehow still installing things)
-editor      : IntelliJ IDEA Ultimate
+editor      : IntelliJ IDEA Ultimate,VS Code,Zed
 values      : local-first, open-source, privacy, minimalism, free
 currently   : making cool stuff on the internet
 brain       : too many tabs open
